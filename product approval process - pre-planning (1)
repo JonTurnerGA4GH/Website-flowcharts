@@ -4,267 +4,222 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="063DwYWzlrR6H0AeMpfx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-8">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-11">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-10">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-9">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-7" target="063DwYWzlrR6H0AeMpfx-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="180" />
-              <mxPoint x="314" y="180" />
+              <mxPoint x="408" y="100" />
+              <mxPoint x="308" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-7" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;i&gt;&quot;I have an idea that GA4GH could address&quot;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=60;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319" y="120" width="190" height="40" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-7" value="&lt;p style=&quot;line-height: 100%; font-size: 8px;&quot;&gt;&quot;I have an idea that GA4GH could address&quot;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;absoluteArcSize=0;arcSize=60;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="313" y="40" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-8" target="063DwYWzlrR6H0AeMpfx-20">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-8" target="063DwYWzlrR6H0AeMpfx-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-8" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Bring an outside product to GA4GH&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="200" width="160" height="50" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-8" value="&lt;h6 style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px; font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Bring an outside product to GA4GH&lt;/font&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="28" y="120" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-9" target="063DwYWzlrR6H0AeMpfx-21">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-9" target="063DwYWzlrR6H0AeMpfx-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-9" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Update an existing product&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="200" width="160" height="50" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-9" value="&lt;h6 style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px; font-weight: normal;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Update an existing product&lt;/font&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="228" y="120" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-10" target="063DwYWzlrR6H0AeMpfx-21">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-10" target="063DwYWzlrR6H0AeMpfx-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-10" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;Share an issue where a product might help&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="434" y="200" width="160" height="50" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-10" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#ffffff&quot;&gt;Share an issue where a product might help&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="428" y="120" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-11" target="063DwYWzlrR6H0AeMpfx-21">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-11" target="063DwYWzlrR6H0AeMpfx-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="063DwYWzlrR6H0AeMpfx-11" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;Share an idea for a product&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="634" y="200" width="160" height="50" as="geometry" />
+          <mxGeometry x="628" y="120" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-20" target="063DwYWzlrR6H0AeMpfx-30">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-20" target="063DwYWzlrR6H0AeMpfx-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Figtree;labelBackgroundColor=#E6E6E6;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-31">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Figtree;labelBackgroundColor=#E6E6E6;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-31">
           <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-20" target="063DwYWzlrR6H0AeMpfx-21">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-20" target="063DwYWzlrR6H0AeMpfx-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-20" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;Are there IP or other issues? (#1)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="290" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-21" target="063DwYWzlrR6H0AeMpfx-28">
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#ffffff&quot;&gt;Are there IP or other issues? (#1)&lt;/font&gt;" link="#point1" id="063DwYWzlrR6H0AeMpfx-20">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="28" y="210" width="160" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="063DwYWzlrR6H0AeMpfx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-21" target="063DwYWzlrR6H0AeMpfx-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-21" target="063DwYWzlrR6H0AeMpfx-29">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-21" target="063DwYWzlrR6H0AeMpfx-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-21" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;Is there already an&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;active group? (#2)&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="434" y="290" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-28" target="063DwYWzlrR6H0AeMpfx-45">
+        <UserObject label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;Is there already an&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;active group? (#2)&lt;/font&gt;&lt;/div&gt;" link="#point2" id="063DwYWzlrR6H0AeMpfx-21">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="428" y="210" width="160" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="063DwYWzlrR6H0AeMpfx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-28" target="063DwYWzlrR6H0AeMpfx-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-28" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Engage with existing group&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="430" width="160" height="50" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-28" value="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Engage with existing group&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="274" y="350" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-29" target="063DwYWzlrR6H0AeMpfx-46">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-29" target="063DwYWzlrR6H0AeMpfx-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-29" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Gather people with shared interests from a wide variety of contexts (#4)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="430" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-30" target="063DwYWzlrR6H0AeMpfx-21">
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Gather people with shared interests from a wide variety of contexts (#4)&lt;/font&gt;" link="#point4" id="063DwYWzlrR6H0AeMpfx-29">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="574" y="350" width="160" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="063DwYWzlrR6H0AeMpfx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-30" target="063DwYWzlrR6H0AeMpfx-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="450" />
-              <mxPoint x="270" y="330" />
+              <mxPoint x="264" y="370" />
+              <mxPoint x="264" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-39" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#000000&quot; style=&quot;font-size: 9px;&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-33">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-39" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=8;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-33">
           <mxGeometry x="-0.3944" y="-2" relative="1" as="geometry">
             <mxPoint x="-62" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-41" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-33">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-41" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-33">
           <mxGeometry x="0.2167" y="-2" relative="1" as="geometry">
             <mxPoint x="-83" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-30" target="063DwYWzlrR6H0AeMpfx-36">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-30" target="063DwYWzlrR6H0AeMpfx-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-38" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Figtree;labelBackgroundColor=#E6E6E6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-37">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-38" value="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Figtree;labelBackgroundColor=#E6E6E6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-37">
           <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint x="1" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-30" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;Work with GA4GH staff -&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 9px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;are&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;there solutions to the issues?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="415" width="160" height="80" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-30" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#ffffff&quot;&gt;Work with GA4GH staff -&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;are&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px; color: rgb(255, 255, 255); background-color: initial;&quot;&gt;there solutions to the issues?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="28" y="335" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-30" target="063DwYWzlrR6H0AeMpfx-36">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-30" target="063DwYWzlrR6H0AeMpfx-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-36" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;End&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=60;strokeColor=none;fillColor=#767676;fontColor=#FFFFFF;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="535" width="160" height="50" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-36" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;End&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=60;strokeColor=none;fillColor=#767676;fontColor=#FFFFFF;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="28" y="455" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-42" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#000000&quot; style=&quot;font-size: 9px;&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="460" as="geometry">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-42" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=8;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="214" y="380" as="geometry">
             <mxPoint x="294" y="-79" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-43" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Figtree;labelBackgroundColor=#E6E6E6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="350" as="geometry">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-43" value="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Figtree;labelBackgroundColor=#E6E6E6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="384" y="270" as="geometry">
             <mxPoint x="220" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-45" target="063DwYWzlrR6H0AeMpfx-51">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-45" target="063DwYWzlrR6H0AeMpfx-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="273" y="550" as="sourcePoint" />
+            <mxPoint x="267" y="470" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="280" y="600" />
-              <mxPoint x="116" y="600" />
+              <mxPoint x="274" y="520" />
+              <mxPoint x="110" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-45">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="312" y="650" as="targetPoint" />
+            <mxPoint x="306" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-45" target="063DwYWzlrR6H0AeMpfx-65">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-45" target="063DwYWzlrR6H0AeMpfx-125">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="650.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="560" />
-              <mxPoint x="460" y="630" />
-              <mxPoint x="400" y="630" />
+              <mxPoint x="454" y="480" />
+              <mxPoint x="454" y="550" />
+              <mxPoint x="408" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-45" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;Interest and support&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: x-small; background-color: initial;&quot;&gt;? (#3)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="520" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-46" target="063DwYWzlrR6H0AeMpfx-52">
+        <UserObject label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;Interest and support&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 8px; background-color: initial;&quot;&gt;? (#3)&lt;/span&gt;" link="#point3" id="063DwYWzlrR6H0AeMpfx-45">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="274" y="440" width="160" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="063DwYWzlrR6H0AeMpfx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-46" target="063DwYWzlrR6H0AeMpfx-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-46" target="063DwYWzlrR6H0AeMpfx-49">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-46" target="063DwYWzlrR6H0AeMpfx-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-46" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: x-small; background-color: initial;&quot;&gt;Move ahead? (#5)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="520" width="160" height="80" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 8px; background-color: initial;&quot;&gt;Move ahead? (#5)&lt;/span&gt;" link="#point5" id="063DwYWzlrR6H0AeMpfx-46">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="574" y="440" width="160" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="063DwYWzlrR6H0AeMpfx-49" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;End&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=60;strokeColor=none;fillColor=#767676;fontColor=#FFFFFF;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="634" y="650" width="160" height="50" as="geometry" />
+          <mxGeometry x="628" y="570" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-50" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;End&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=60;strokeColor=none;fillColor=#767676;fontColor=#FFFFFF;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="650" width="160" height="50" as="geometry" />
+        <mxCell id="063DwYWzlrR6H0AeMpfx-50" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;End&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=0;arcSize=60;strokeColor=none;fillColor=#767676;fontColor=#FFFFFF;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="228" y="570" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-51" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Proceed to STUDY&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9f79b0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="650" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-52" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Proceed to STUDY&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9F79B0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="434" y="650" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-58" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#000000&quot; style=&quot;font-size: 9px;&quot;&gt;Yes, establish new product&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="460" as="geometry">
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Proceed to STUDY&lt;/font&gt;" link="#section_4" id="063DwYWzlrR6H0AeMpfx-51">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9f79b0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="29" y="570" width="160" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Proceed to STUDY&lt;/font&gt;" link="#section_4" id="063DwYWzlrR6H0AeMpfx-52">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9F79B0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="428" y="570" width="160" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="063DwYWzlrR6H0AeMpfx-58" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;Yes:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;establish new product&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=8;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="264" y="360" as="geometry">
             <mxPoint x="-16" y="139" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-59" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#000000&quot; style=&quot;font-size: 9px;&quot;&gt;Yes, update existing product&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="460" as="geometry">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-59" value="&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;Yes:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;update existing product&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=8;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="473.5" y="360" as="geometry">
             <mxPoint x="-16" y="139" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-61" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="232.5" y="340" as="geometry">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-61" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="226.5" y="260" as="geometry">
             <mxPoint x="126" y="266" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-62" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="632.5" y="290" as="geometry">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-62" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="628" y="230" as="geometry">
             <mxPoint x="126" y="266" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-63" value="&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="460" as="geometry">
+        <mxCell id="063DwYWzlrR6H0AeMpfx-63" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#000000&quot; style=&quot;font-size: 8px;&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=8;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="204" y="390" as="geometry">
             <mxPoint x="344" y="91" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-65" target="063DwYWzlrR6H0AeMpfx-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-65" target="063DwYWzlrR6H0AeMpfx-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="830" />
-              <mxPoint x="200" y="830" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-65" target="063DwYWzlrR6H0AeMpfx-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-65" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;Type of change? (#23)&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319.5" y="730" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-67" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Proceed to STUDY&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9f79b0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="119.5" y="870" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-68" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;Urgent fix (#24)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;* PRC notified immediately&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; style=&quot;font-size: 9px;&quot;&gt;* Group develops a solution&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319.5" y="870" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-69" target="063DwYWzlrR6H0AeMpfx-65">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="890" />
-              <mxPoint x="730" y="770" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-69" target="063DwYWzlrR6H0AeMpfx-79">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-84" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=9;" connectable="0" vertex="1" parent="063DwYWzlrR6H0AeMpfx-80">
-          <mxGeometry x="-0.15" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-69" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: x-small; background-color: initial;&quot;&gt;Track approved? (#29)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="529.5" y="850" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-73" value="&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;Scope or&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#000000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;breaking change&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="690" as="geometry">
-            <mxPoint x="-16" y="139" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-74" value="&lt;font color=&quot;#000000&quot;&gt;Continued&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;development&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="690" as="geometry">
-            <mxPoint x="-16" y="139" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-76" value="&lt;font color=&quot;#000000&quot;&gt;Urgent fix&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontColor=#FFFFFF;fontSize=9;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="710" as="geometry">
-            <mxPoint x="-16" y="139" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-78" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontFamily=Figtree;fontSize=9;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="600" as="geometry">
-            <mxPoint x="126" y="266" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="063DwYWzlrR6H0AeMpfx-79" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;Work on minor candidate version (#30)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="529.5" y="970" width="160" height="50" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 8px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Proceed to UPDATES&lt;/font&gt;" link="#section_7" id="063DwYWzlrR6H0AeMpfx-125">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9f79b0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="328" y="660" width="160" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
