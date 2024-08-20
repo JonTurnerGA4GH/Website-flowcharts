@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.7">
   <diagram name="Page-1" id="U_gUqXv9_oGlhoQN5rfY">
-    <mxGraphModel dx="938" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="375" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
             <mxGeometry x="488.75" y="99" width="160" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 8px; background-color: initial;&quot;&gt;Product Review Committee,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 8px; background-color: initial;&quot;&gt;Regulatory &amp;amp; Ethics, and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 8px; background-color: initial;&quot;&gt;Security approve? (#18)&lt;/span&gt;&lt;/div&gt;" link="#point18" id="BsW68z1m7G1KdXSox00R-13">
+        <UserObject label="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 8px; background-color: initial;&quot;&gt;Product Review&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 8px; background-color: initial;&quot;&gt;Committee,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Regulatory&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&amp;amp; Ethics, and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Security&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;approve? (#18)&lt;/span&gt;&lt;/div&gt;" link="#point18" id="BsW68z1m7G1KdXSox00R-13">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" parent="1" vertex="1">
             <mxGeometry x="488.75" y="379" width="160" height="80" as="geometry" />
           </mxCell>
