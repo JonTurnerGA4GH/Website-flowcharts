@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.7">
   <diagram name="Page-1" id="U_gUqXv9_oGlhoQN5rfY">
-    <mxGraphModel dx="1026" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
             <mxGeometry x="488.75" y="80" width="160" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;Product Review&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;Committee,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Regulatory&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&amp;amp; Ethics, and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Security&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;approve? (#18)&lt;/span&gt;&lt;/div&gt;" link="#point18" id="BsW68z1m7G1KdXSox00R-13">
+        <UserObject label="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255);&quot;&gt;PRC,&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Regulatory&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&amp;amp; Ethics, and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Security&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;approve?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;(#18)&lt;/span&gt;&lt;/div&gt;" link="#point18" id="BsW68z1m7G1KdXSox00R-13">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="483.13" y="360" width="171.25" height="80" as="geometry" />
           </mxCell>
@@ -24,7 +24,7 @@
             <mxGeometry x="170" y="490" width="160" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;Subset/delegates of Product Steering&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Committee review content and vote in&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;offline ballot (#20)&lt;/font&gt;&lt;/div&gt;" link="#point20" id="BsW68z1m7G1KdXSox00R-21">
+        <UserObject label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;Subset/delegates of Product Steering&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Committee (PSC)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;review content and vote in&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;offline ballot (#20)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" link="#point20" id="BsW68z1m7G1KdXSox00R-21">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="488.75" y="500" width="160" height="61" as="geometry" />
           </mxCell>
@@ -43,7 +43,7 @@
             <mxGeometry x="488.75" y="150" width="160" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Product Review Committee, Regulatory&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255);&quot;&gt;&amp;amp; Ethics, and Security review (#17)&lt;/span&gt;" link="#point17" id="BsW68z1m7G1KdXSox00R-54">
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Product Review Committee&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;(PRC), Regulatory&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255);&quot;&gt;&amp;amp; Ethics, and Security review (#17)&lt;/span&gt;&lt;/div&gt;" link="#point17" id="BsW68z1m7G1KdXSox00R-54">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="488.75" y="220" width="160" height="50" as="geometry" />
           </mxCell>
@@ -53,7 +53,7 @@
             <mxGeometry x="488.75" y="290" width="160" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Subset/delegates of&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Product&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Steering Committee&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;approve&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;content? (#21)&lt;/span&gt;&lt;/div&gt;" link="#point21" id="BsW68z1m7G1KdXSox00R-56">
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Subset/&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;delegates of &amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255);&quot;&gt;PSC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255);&quot;&gt;approve&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255);&quot;&gt;content?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255);&quot;&gt;(#21)&lt;/span&gt;&lt;/div&gt;" link="#point21" id="BsW68z1m7G1KdXSox00R-56">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="483.13" y="590" width="171.25" height="80" as="geometry" />
           </mxCell>
@@ -63,7 +63,7 @@
             <mxGeometry x="488.75" y="721" width="160" height="89" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Full Product Steering&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Committee&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;approves&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;process? (#22)&lt;/span&gt;&lt;/div&gt;" link="#point22" id="BsW68z1m7G1KdXSox00R-58">
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Full PSC&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255);&quot;&gt;approves&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;process? (#22)&lt;/span&gt;&lt;/div&gt;" link="#point22" id="BsW68z1m7G1KdXSox00R-58">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="488.76" y="830" width="160" height="80" as="geometry" />
           </mxCell>
