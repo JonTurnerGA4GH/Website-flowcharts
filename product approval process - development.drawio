@@ -1,21 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.7">
   <diagram name="Page-1" id="JKtT9ijfMeD0fgh-phho">
-    <mxGraphModel dx="1219" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;Move ahead? (#15)&lt;/font&gt;" link="#point15" id="G-RJr6JL06SoVc274rdQ-5">
+        <UserObject label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;u&gt;Move ahead? (#15)&lt;/u&gt;&lt;/font&gt;" link="#point15" id="G-RJr6JL06SoVc274rdQ-5">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="330" y="280" width="160" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;Product development process (#14)&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Communicate new group broadly&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Engage stakeholders/adopters&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Adhere to GA4GH Best Practices and Code of Conduct&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Periodically inform delegates of Product Steering Committee who have registered interest to be updated on key developments&lt;/font&gt;&lt;/div&gt;" link="#point14" id="G-RJr6JL06SoVc274rdQ-8">
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;u&gt;Product development process (#14)&lt;/u&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Communicate new group broadly&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Engage stakeholders/adopters&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Adhere to GA4GH Best Practices and Code of Conduct&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;• Periodically inform delegates of Product Steering Committee who have registered interest to be updated on key developments&lt;/font&gt;&lt;/div&gt;" link="#point14" id="G-RJr6JL06SoVc274rdQ-8">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="325" y="110" width="170" height="130" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;Proceed to APPROVAL&lt;/font&gt;" link="#section_5" id="G-RJr6JL06SoVc274rdQ-15">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9F79B0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="330" y="420" width="160" height="50" as="geometry" />
           </mxCell>
         </UserObject>
