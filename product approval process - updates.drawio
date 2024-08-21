@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.7">
   <diagram name="Page-1" id="lLyabMQEXQ9imE6EM3v9">
-    <mxGraphModel dx="1026" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="QlCUB4jWWU4fkNiN9hsf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" parent="1" source="QlCUB4jWWU4fkNiN9hsf-17" target="QlCUB4jWWU4fkNiN9hsf-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;Product group agrees&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;minor candidate version&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;is ready? (#31)&lt;/span&gt;&lt;/div&gt;" link="#point31" id="QlCUB4jWWU4fkNiN9hsf-17">
+        <UserObject label="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;Product group&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;agrees&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;minor candidate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;version&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;is ready? (#31)&lt;/span&gt;&lt;/div&gt;" link="#point31" id="QlCUB4jWWU4fkNiN9hsf-17">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="460" y="439" width="160" height="80" as="geometry" />
           </mxCell>
@@ -147,7 +147,7 @@
             <mxPoint x="-3" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Approved by&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Product Review Committee?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;(#33)&lt;/span&gt;&lt;/div&gt;" link="#point33" id="QlCUB4jWWU4fkNiN9hsf-42">
+        <UserObject label="&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Approved by&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Product Review&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;Committee?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;(#33)&lt;/span&gt;&lt;/div&gt;" link="#point33" id="QlCUB4jWWU4fkNiN9hsf-42">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="1" vertex="1">
             <mxGeometry x="460" y="654" width="160" height="80" as="geometry" />
           </mxCell>
@@ -246,7 +246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U4evvgoyGGCmxNKXx5C2-11" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;No:&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;return to&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;development&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;fontColor=#FFFFFF;fontSize=10;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="506" y="390" as="geometry">
+          <mxGeometry x="506" y="393" as="geometry">
             <mxPoint x="-16" y="139" as="offset" />
           </mxGeometry>
         </mxCell>
