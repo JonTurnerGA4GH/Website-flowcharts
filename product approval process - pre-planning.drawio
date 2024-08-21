@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1181" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="562" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;u&gt;*Are there IP or&amp;nbsp;&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;other&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;issues? (#1)&lt;/span&gt;&lt;/u&gt;&lt;/div&gt;" link="#point1" id="063DwYWzlrR6H0AeMpfx-20">
+        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;u&gt;*Are there IP or&amp;nbsp;&lt;/u&gt;&lt;/font&gt;&lt;div&gt;&lt;u&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;other&amp;nbsp;&lt;/font&gt;issues? (#1)&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" link="#point1" id="063DwYWzlrR6H0AeMpfx-20">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="28" y="210" width="160" height="80" as="geometry" />
           </mxCell>
@@ -112,7 +112,7 @@
         <mxCell id="063DwYWzlrR6H0AeMpfx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="063DwYWzlrR6H0AeMpfx-29" target="063DwYWzlrR6H0AeMpfx-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;u&gt;&lt;font style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot; color=&quot;#ffffff&quot;&gt;Gather people with shared interests from&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;a wide variety of contexts (#4)&lt;/span&gt;&lt;/u&gt;" link="#point4" id="063DwYWzlrR6H0AeMpfx-29">
+        <UserObject label="&lt;u&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Figtree&quot;&gt;Gather people with shared interests from&amp;nbsp;&lt;/font&gt;a wide variety of contexts (#4)&lt;/font&gt;&lt;/u&gt;" link="#point4" id="063DwYWzlrR6H0AeMpfx-29">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#4FAEDC;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="560" y="456" width="160" height="50" as="geometry" />
           </mxCell>
@@ -139,7 +139,7 @@
             <mxPoint x="220" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;u&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 10px;&quot;&gt;Interest and support&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 10px; background-color: initial;&quot;&gt;? (#3)&lt;/span&gt;&lt;/u&gt;" link="#point3" id="063DwYWzlrR6H0AeMpfx-45">
+        <UserObject label="&lt;u&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Interest and support&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;? (#3)&lt;/span&gt;&lt;/font&gt;&lt;/u&gt;" link="#point3" id="063DwYWzlrR6H0AeMpfx-45">
           <mxCell style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1b75bb;fontFamily=Figtree;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFigtree;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="290" y="546" width="160" height="80" as="geometry" />
           </mxCell>
